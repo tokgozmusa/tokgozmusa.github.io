@@ -1,3 +1,5 @@
-# musatokgoz.com
+# My Personal Website
 
-[My personal website.](http://musatokgoz.com/)
+This is source code of my personal website.
+
+Visit by clicking http://musatokgoz.com/ or https://tokgozmusa.github.io/
